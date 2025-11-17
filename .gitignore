@@ -18,5 +18,5 @@ doc_id_to_image_path.json
 neo4J_settings.json
 
 # Large data files (uncomment if you don't want to track data)
-# data/
+data/
 
