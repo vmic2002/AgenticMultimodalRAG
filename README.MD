@@ -31,8 +31,7 @@ Evaluate your RAG system using DeepEval with local Ollama (no API costs):
 python evaluation_pipeline.py --quick-test
 ```
 
-> ⚠️ **Note**: DeepEval integration is currently in testing. See evaluation report for status.
-
+> ⚠️ **Note**: DeepEval integration is currently in testing.
 See **`README_Evaluation.md`** for details.
 
 ## 📚 Additional Documentation
