@@ -1,0 +1,22 @@
+__pycache__/
+
+# Virtual Environment
+.venv/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+
+# Project specific
+.deepeval/
+temp.txt
+evaluation_results.json
+doc_id_to_image_path.json
+neo4J_settings.json
+
+# Large data files (uncomment if you don't want to track data)
+# data/
+
